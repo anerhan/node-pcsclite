@@ -1,12 +1,12 @@
 # node-pcsclite
 
-[![npm](https://img.shields.io/npm/v/@pokusew/pcsclite.svg?maxAge=2592000)](https://www.npmjs.com/package/@pokusew/pcsclite)
+[![npm](https://img.shields.io/npm/v/@anerhan/pcsclite.svg?maxAge=2592000)](https://www.npmjs.com/package/@anerhan/pcsclite)
 [![node-pcsclite channel on discord](https://img.shields.io/badge/discord-join%20chat-61dafb.svg)](https://discord.gg/bg3yazg)
 
 Bindings over pcsclite to access Smart Cards. It works in **Linux**, **macOS** and **Windows**.
 
 > **Looking for library to work easy with NFC tags?**  
-take a look at [nfc-pcsc](https://github.com/pokusew/nfc-pcsc) which offers easy to use high level API for detecting / reading and writing NFC tags and cards
+take a look at [nfc-pcsc](https://github.com/anerhan/nfc-pcsc) which offers easy to use high level API for detecting / reading and writing NFC tags and cards
 
 
 ## Content
@@ -58,7 +58,7 @@ In **macOS** and **Windows** you **don't have to install** anything.
 Once you have all needed libraries, you can install using npm:
 
 ```bash
-npm install @pokusew/pcsclite --save
+npm install @anerhan/pcsclite --save
 ```
 
 ## Example
